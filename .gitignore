@@ -1,0 +1,37 @@
+Byte-compiled / optimized / DLL files
+
+pycache/
+*.py[cod]
+*$py.class
+
+Environments
+
+.venv/
+venv/
+ENV/
+env/
+
+Data and Models (Optional: ignore if files are too large)
+
+data/raw/.csv
+data/processed/.csv
+models/*.joblib
+
+Logs
+
+logs/*.log
+
+Reports
+
+reports/figures/*.png
+reports/metrics.json
+
+OS generated files
+
+.DS_Store
+Thumbs.db
+
+IDEs
+
+.vscode/
+.idea/
