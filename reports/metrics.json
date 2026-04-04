@@ -1,0 +1,9 @@
+{
+    "r2": 0.8788528017534415,
+    "rmse": 30483.41400889789,
+    "best_params": {
+        "model__max_depth": 20,
+        "model__max_features": "sqrt",
+        "model__n_estimators": 300
+    }
+}
