@@ -3,11 +3,8 @@
 <p align="center">An end-to-end Machine Learning solution for real estate valuation</p>
 </p>
 
-<p align="center">
-<a href="https://www.google.com/search?q=https://github.com/hoagBkun/house-price-prediction/stargazers"><img src="https://www.google.com/search?q=https://img.shields.io/github/stars/hoagBkun/house-price-prediction" alt="GitHub stars"></a>
-<a href="https://www.google.com/search?q=https://github.com/hoagBkun/house-price-prediction/network"><img src="https://www.google.com/search?q=https://img.shields.io/github/forks/hoagBkun/house-price-prediction%3Fcolor%3Dorange" alt="GitHub forks"></a>
-<a href="https://www.google.com/search?q=https://github.com/hoagBkun/house-price-prediction/blob/master/LICENSE"><img src="https://www.google.com/search?q=https://img.shields.io/github/license/hoagBkun/house-price-prediction" alt="GitHub license"></a>
-</p>
+
+<a href="https://house-price-prediction-3twm.onrender.com">Link Test</a>
 
 Introduction
 
