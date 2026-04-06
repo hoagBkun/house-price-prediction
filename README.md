@@ -3,11 +3,7 @@
 <p align="center">An end-to-end Machine Learning solution for real estate valuation</p>
 </p>
 
-<p align="center">
-<a href="https://www.google.com/search?q=https://github.com/your-username/house-price-prediction/stargazers"><img src="https://www.google.com/search?q=https://img.shields.io/github/stars/your-username/house-price-prediction" alt="GitHub stars"></a>
-<a href="https://www.google.com/search?q=https://github.com/your-username/house-price-prediction/network"><img src="https://www.google.com/search?q=https://img.shields.io/github/forks/your-username/house-price-prediction%3Fcolor%3Dorange" alt="GitHub forks"></a>
-<a href="https://www.google.com/search?q=https://github.com/your-username/house-price-prediction/blob/master/LICENSE"><img src="https://www.google.com/search?q=https://img.shields.io/github/license/your-username/house-price-prediction" alt="GitHub license"></a>
-</p>
+
 
 Introduction
 
@@ -74,18 +70,6 @@ Total Area
 
 Room Count
 
-Project Structure
-
-house_price_project/
-├── app/                  # Flask Web Application & UI Templates
-├── config/               # System configuration (config.yaml)
-├── data/                 # Raw and processed datasets
-├── logs/                 # Training and operational logs
-├── models/               # Saved models (final_model.joblib)
-├── reports/              # Metrics.json and Evaluation Figures
-├── src/                  # Core Logic (Preprocessing, Features, Training, Viz)
-├── tests/                # Unit tests for data schema and predictions
-└── Dockerfile            # Docker production environment
 
 
 Training & Optimization
