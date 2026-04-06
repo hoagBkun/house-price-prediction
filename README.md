@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/hoagBkun/house-price-prediction/stargazers"><img src="https://www.google.com/search?q=https://img.shields.io/github/stars/your-username/house-price-prediction" alt="GitHub stars"></a>
-<a href="https://www.google.com/search?q=https://github.com/hoagBkun/house-price-prediction/network"><img src="https://www.google.com/search?q=https://img.shields.io/github/forks/your-username/house-price-prediction%3Fcolor%3Dorange" alt="GitHub forks"></a>
-<a href="https://www.google.com/search?q=https://github.com/hoagBkun/house-price-prediction/blob/master/LICENSE"><img src="https://www.google.com/search?q=https://img.shields.io/github/license/your-username/house-price-prediction" alt="GitHub license"></a>
+<a href="https://www.google.com/search?q=https://github.com/hoagBkun/house-price-prediction/stargazers"><img src="https://www.google.com/search?q=https://img.shields.io/github/stars/hoagBkun/house-price-prediction" alt="GitHub stars"></a>
+<a href="https://www.google.com/search?q=https://github.com/hoagBkun/house-price-prediction/network"><img src="https://www.google.com/search?q=https://img.shields.io/github/forks/hoagBkun/house-price-prediction%3Fcolor%3Dorange" alt="GitHub forks"></a>
+<a href="https://www.google.com/search?q=https://github.com/hoagBkun/house-price-prediction/blob/master/LICENSE"><img src="https://www.google.com/search?q=https://img.shields.io/github/license/hoagBkun/house-price-prediction" alt="GitHub license"></a>
 </p>
 
 Introduction
